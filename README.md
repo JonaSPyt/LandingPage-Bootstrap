@@ -1,0 +1,1 @@
+Inspirado por uma página que vi em um site de freelancers, decidi testar minhas habilidades e recriar essa landing page por conta própria. Desde a escolha das cores até o layout responsivo, cada detalhe foi cuidadosamente planejado e implementado para alcançar um design atraente e funcional.
